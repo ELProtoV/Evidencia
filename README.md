@@ -26,9 +26,23 @@ Para almacenar la información de doctores, pacientes y citas, se utilizan lista
 
 - Universidad Tercmilenio
 
-## Licencia
+# Licencia Creative Commons (CC BY-NC-SA 4.0)
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+Este trabajo está licenciado bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional. Para ver una copia de esta licencia, visita http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+### Usted es libre de:
+- Compartir — copiar y redistribuir el material en cualquier medio o formato
+- Adaptar — remezclar, transformar y construir a partir del material
+
+El licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia.
+
+### Bajo los siguientes términos:
+- Atribución — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que tiene el apoyo del licenciante o lo recibe por el uso que hace.
+- NoComercial — Usted no puede utilizar el material con fines comerciales.
+- CompartirIgual — Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la misma licencia que el original.
+
+No hay restricciones adicionales — no puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso permitido por la licencia.
+
 
 ## Créditos
 
